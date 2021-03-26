@@ -1,4 +1,4 @@
-module github.com/tonistiigi/binfmt
+module github.com/shahidhs-ibm/binfmt
 
 go 1.15
 
